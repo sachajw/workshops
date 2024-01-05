@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/workshops is built on the following main stack:
+
 - [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [wercker](http://wercker.com/) – Continuous Integration
@@ -30,11 +31,13 @@ sachajw/workshops is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/workshops is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/897/S67KcxKE.png' alt='wercker'/> [wercker](http://wercker.com/) – Continuous Integration
@@ -63,14 +66,15 @@ sachajw/workshops is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/workshops](https://github.com/sachajw/workshops)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|11/16/23 <br/>Report generated|
+|54<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -363,9 +367,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -384,6 +388,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|10/16/23|Engin Diri |MIT|N/A|
 |[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v6.0.0|10/16/23|Engin Diri |ISC|N/A|
 |[express](https://www.npmjs.com/express)|v4.17.1|08/18/22|Laura Santamaria |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|10/16/23|Engin Diri |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|10/16/23|Engin Diri |MIT|N/A|
 |[morgan](https://www.npmjs.com/morgan)|v1.10.0|08/18/22|Laura Santamaria |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|10/16/23|Engin Diri |MIT|N/A|
 |[standard-version](https://www.npmjs.com/standard-version)|v9.5.0|10/16/23|Engin Diri |ISC|N/A|
@@ -394,7 +400,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[boto3](https://pypi.org/boto3)|v1.26.89|03/15/23|Josh Kodroff |Apache-2.0|N/A|
+|[boto3](https://pypi.org/project/boto3)|v1.26.89|03/15/23|Josh Kodroff |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
